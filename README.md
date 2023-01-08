@@ -1,5 +1,5 @@
 <div align="left"> 
-<h1> Sssss (Hey), I am Serpentesis </h1>
+<h1> Hey, I am Serpentesis </h1>
 <P> I'm currently in the process of becoming a Front-End Web Developer </p>
 </div>
 
