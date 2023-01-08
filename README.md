@@ -19,7 +19,8 @@
  <!-- <img align="center" alt="Serp-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
  <!-- <img align="center" alt="Serp-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Serp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Serpentesis-pic" height="150" style="border-radius:50px;" src="https://im4.ezgif.com/tmp/ezgif-4-2c6f39cfd1.gif"> 
+ 
+ <img align="right" alt="Serpentesis-pic" height="130" width="140" style="border-radius:50px;" src="https://i.pinimg.com/originals/fc/4b/ff/fc4bff37ef1b3126edd01f2e7d9a193b.gif"> 
 </div> 
 
 ##
