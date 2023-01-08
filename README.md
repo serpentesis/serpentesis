@@ -1,6 +1,6 @@
 <div align="left">
    <hr>
-   <h1> Hey, I am Serpentesis 👋 </h1>
+   <h1> 👋 Hey, I am Serpentesis </h1>
    <p> I'm currently in the process of becoming a Front-End Web Developer! </p>
 </div>
 
