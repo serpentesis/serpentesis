@@ -12,7 +12,7 @@
 
 <div align="left">
    <a href="https://github.com/serpentesis">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serpentesis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&icon_color=e3436b&text_color=3bcfd4"/>
+   <img height="180em" src="github-readme-stats-red-six-13.vercel.app/api?username=serpentesis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&icon_color=e3436b&text_color=3bcfd4"/>
 </div>
 
 
