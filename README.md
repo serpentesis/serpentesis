@@ -1,21 +1,15 @@
 <div align="left">
    <hr>
    <h1> 👋 Hey, I am Serpentesis </h1>
-   <p> I'm currently in the process of becoming a Front-End Web Developer! </p>
+   <p> I'm currently in the process of becoming a Web Developer! 
+       I'm learning HTML, CSS, Javascript, PHP and Project Management meanwhile capturing some Design knowledgements.  </p>
 </div>
-
-<!-- <div align="left"> 
-  <h1> Oiee, eu sou a Serpentesis 👋 </h1>
-  <p> Estou no processo para me tornar uma Desenvolvedora Web Front-End! </p>
-  </div>
--->
 
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Serp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Serp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Serp-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
  <!-- 
-  <img align="center" alt="Serp-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Serp-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Serp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
