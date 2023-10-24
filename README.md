@@ -1,16 +1,23 @@
 <div align="left">
    <hr>
    <h1> 👋 Hey, I am Serpentesis </h1>
-   <p> I'm currently in the process of becoming a Web Developer! 
-       I'm learning HTML, CSS, Javascript, PHP and Project Management meanwhile capturing some Design knowledgements.  </p>
+   <p> I'm currently in the process of becoming a Front-End Developer! 
+       I'm learning C#, HTML, CSS, Project Management and Design UX/UI.  </p>
 </div>
 
 <div style="display: inline_block" align="left"><br>
+   <img align="center" alt="Serp-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Serp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Serp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Serp-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
- <!-- 
-  <img align="center" alt="Serp-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+   
+   
+         
+          
+ 
+ 
+  
+  <!-- <img align="center" alt="Serp-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Serp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
   <img align="right" alt="Serpentesis-pic" height="130" width="140" src="https://i.pinimg.com/originals/fc/4b/ff/fc4bff37ef1b3126edd01f2e7d9a193b.gif"> 
