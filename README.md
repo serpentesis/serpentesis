@@ -1,10 +1,3 @@
-<div align="left">
-   <hr>
-   <h1> 👋 Hey, I am Serpentesis </h1>
-   <p> I'm currently in the process of becoming a Front-End Developer! 
-       I'm learning C#, HTML, CSS, Project Management and Design UX/UI.  </p>
-</div>
-
 <div style="display: inline_block" align="left"><br>
    <img align="center" alt="Serp-Photoshop" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
     <img align="center" alt="Serp-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
